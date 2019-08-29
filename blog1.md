@@ -1,2 +1,5 @@
-# Instruction Sets for Strangers
-## week1
+[<Back](README.md)
+
+## Week1 - Research and Brainstorming
+
+### Thompkin Square Park

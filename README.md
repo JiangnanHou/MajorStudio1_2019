@@ -1,2 +1,2 @@
 # Instruction Sets for Strangers
-[link](blog1.md)
+###[Week1 - Research and Brainstorming](blog1.md)
