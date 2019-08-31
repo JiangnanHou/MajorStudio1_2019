@@ -58,4 +58,7 @@ Make the pingpong table function as a pingpong table is a safe choice. But as ou
 *Dinner Party, Judy Chicago*
 
 As shown in our map, there are a lot of couples, friends and students walking by. Why don't we make a public date table in the park? It could be romantic, but more in a fun and playful way. 
+
 ![img](img/draft.jpeg)
+
+We decided to add chairs around the table, place table cloth, tableware made of cupboard and paper and other items on it to make a fun and beautiful place where people can stop and interact with. It could be romantic but more in a playful way. We'll observe the interactions(sitting down? taking pics? talking?) and document it by shooting a video. 
