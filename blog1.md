@@ -35,11 +35,12 @@ img
 We also liked the idea of changing the function of something and there is a lot that we could do to turn the pingpong table into something else.
 
 Behavior Mapping
+
 We mapped the track people walking around the pingpong table and counted how many of each group of people were walking by.
 ![img](img/map1.jpeg)
 ![img](img/map2.jpeg)
 
-Ideation
+### Ideation
 The first idea we came with was to simply provide a pair of paddle and a pingpong ball and let people play. Adding color on the table and even making a luminous ball could also make it eyecatching and attract people here. 
 
 Make the pingpong table function as a pingpong table is a safe choice. But as our brainstorming and ideating going further, we came up of more interesting ideas. How about making it something totally different? There are a few examples came to mind.
@@ -50,4 +51,5 @@ Beyond the Streets, Bill Barminski
 ![img](img/dt1.jpeg)
 Dinner Party, Judy Chicago
 
-
+As shown in our map, there are a lot of couples, friends and students walking by. Why don't we make a public date table in the park? It could be romantic, but more in a fun and playful way. 
+![img](img/draft.jpeg)
