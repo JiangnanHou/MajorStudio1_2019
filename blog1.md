@@ -22,10 +22,10 @@ Slocum Memorial Fountain
 Harry Greenberg Memorial Tree
 
 ### Design Process 
-AEIOU
+#### AEIOU
 ![img](img/aeiou.png)
 
-Brainstroming Tree
+#### Brainstroming Tree
 ![img](img/bs1.png)
 ![img](img/bs2.png)
 
@@ -37,8 +37,7 @@ The Harry Table
 
 We also liked the idea of changing the function of something and there is a lot that we could do to turn the ping-pong table into something else.
 
-Behavior Mapping
-
+#### Behavior Mapping
 We mapped the track people walking around the pingpong table and counted how many of each group of people were walking by.
 
 ![img](img/map1.jpeg)
@@ -57,6 +56,7 @@ Make the pingpong table function as a pingpong table is a safe choice. But as ou
 
 *Dinner Party, Judy Chicago*
 
+#### Sketch
 As shown in our map, there are a lot of couples, friends and students walking by. Why don't we make a table for dates in the park? The setting could be formal and romantic, but more in a fun and playful way. 
 
 ![img](img/draft.jpeg)
