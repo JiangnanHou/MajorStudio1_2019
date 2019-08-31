@@ -46,10 +46,10 @@ The first idea we came with was to simply provide a pair of paddle and a pingpon
 Make the pingpong table function as a pingpong table is a safe choice. But as our brainstorming and ideating going further, we came up of more interesting ideas. How about making it something totally different? There are a few examples came to mind.
 
 ![img](img/cb.jpeg)
-Beyond the Streets, Bill Barminski
+*Beyond the Streets, Bill Barminski*
 
 ![img](img/dt1.jpeg)
-Dinner Party, Judy Chicago
+*Dinner Party, Judy Chicago*
 
 As shown in our map, there are a lot of couples, friends and students walking by. Why don't we make a public date table in the park? It could be romantic, but more in a fun and playful way. 
 ![img](img/draft.jpeg)
