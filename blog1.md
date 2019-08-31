@@ -9,4 +9,5 @@ Since its beginnings in the 19th century, Tompkins Square Park has served as a h
 ![img](img/bs1.png)
 ![img](img/bs2.png)
 ![img](img/map1.jpeg)
-[link](https://youtu.be/12sjvtj9-PE)
+
+![img](https://youtu.be/12sjvtj9-PE)
