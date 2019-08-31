@@ -1,5 +1,6 @@
 [<Back](README.md)
 
-## Week1 - Research and Brainstorming
+## 08/31/19 - Research and Brainstorming
 
 ### Thompkin Square Park
+![img](img/aeiou.png)
