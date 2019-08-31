@@ -1,6 +1,6 @@
 [<Back](README.md)
 
-## 08/31/19 - Research and Brainstorming
+## 08/31/19 - Research, Brainstorming and 1st Draft
 
 ### Location:
 Thompkin Square Park
@@ -12,12 +12,15 @@ Since its beginnings in the 19th century, Tompkins Square Park has served as a h
 While we were walking around the park, we found some historical memorial sites as well as an honor memorial tree for the late park supervisor. All of these have made it a lovely public space for residents and vitnessed the change of the park along the history.
 
 ![img](img/fountain.jpg)
+
 Temperance Fountain
 
 ![img](img/memo.png)
+
 Slocum Memorial Fountain
 
 ![img](img/tree.png)
+
 Harry Greenberg Memorial Tree
 
 ### Design Process 
@@ -37,6 +40,7 @@ We also liked the idea of changing the function of something and there is a lot 
 Behavior Mapping
 
 We mapped the track people walking around the pingpong table and counted how many of each group of people were walking by.
+
 ![img](img/map1.jpeg)
 ![img](img/map2.jpeg)
 
@@ -46,9 +50,11 @@ The first idea we came with was to simply provide a pair of paddle and a pingpon
 Make the pingpong table function as a pingpong table is a safe choice. But as our brainstorming and ideating going further, we came up of more interesting ideas. How about making it something totally different? There are a few examples came to mind.
 
 ![img](img/cb.jpeg)
+
 *Beyond the Streets, Bill Barminski*
 
 ![img](img/dt1.jpeg)
+
 *Dinner Party, Judy Chicago*
 
 As shown in our map, there are a lot of couples, friends and students walking by. Why don't we make a public date table in the park? It could be romantic, but more in a fun and playful way. 
