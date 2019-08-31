@@ -31,6 +31,8 @@ Harry Greenberg Memorial Tree
 
 During the observation, we saw an "abandoned" ping-pong table also named after the late supervisor Harry Greenberg. It's nicely buildt and quite spacial but no one was actually using it. Lots of people were walking by because it's well located, but the area is quite cozy and chill since most of them were resting on the bench or walking their dogs. We decided to choose this pingpong table as the spot where the interaction is to happen.
 
+![img](img/table1.jpeg)
+![img](img/table2.jpeg)
 The Harry Table
 
 We also liked the idea of changing the function of something and there is a lot that we could do to turn the ping-pong table into something else.
