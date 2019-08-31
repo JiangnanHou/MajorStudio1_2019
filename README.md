@@ -1,2 +1,2 @@
 ## Instruction Sets for Strangers
-[08/31/19 - Research and Brainstorming](blog1.md)
+[08/31/19 - Research, Brainstorming and 1st Draft](blog1.md)
