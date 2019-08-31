@@ -31,7 +31,7 @@ Brainstroming Tree
 ![img](img/bs1.png)
 ![img](img/bs2.png)
 
-Across the Slocum Memorial Fountain, we saw an "abandoned" pingpong table made of stone. It's nicely buildt and quite spacial but no one was actually using it. Lots of people were walking by because it's well located, but the area is quite cozy and chill since most of them were resting on the bench or walking their dogs. We decided to choose this pingpong table as the spot where the interaction is to happen.
+During the observation, we saw an "abandoned" pingpong table made of stone. It's nicely buildt and quite spacial but no one was actually using it. Lots of people were walking by because it's well located, but the area is quite cozy and chill since most of them were resting on the bench or walking their dogs. We decided to choose this pingpong table as the spot where the interaction is to happen.
 
 img
 
