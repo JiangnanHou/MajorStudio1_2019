@@ -1,7 +1,6 @@
 [<Back](README.md)
 
-## 09/10/19 - Prototype I & II
-### Prototype I
+## 09/03/19 - Prototype I
 After the research and ideation, we settled on changing the function of the existing form, by using the ping-pong table in an absurd way and setting it as if in preparation for a formal dinner. We were attracted to the idea of an interactive installation which speaks to surrealism and absurdity. We imagine strangers engaging with the form by sitting at the table and taking pictures with the installation and props, and interacting with other users. 
 #### Concept
 The dining table set for two explores communication and the relationship between two people seated at either end of the table. By interacting with one another through their engagement with the installation, we are creating a formal dining spread like one would experience on a romantic date in an absurd, cartoon-like, altered reality where items are larger than life, brightly colored, and reflective.
@@ -51,8 +50,7 @@ We also put an iPhone on the divider to play jazz to create a romantic date-like
 
 ![img](img/cparkerplace.jpeg)
 
-The test went on for about 40 minutes. Here's the link to our documentation video:
-https://drive.google.com/open?id=1_HcqHmJrMhzm2GlPKin2euVE_hietx5c
+The test went on for about 40 minutes. Here's the [link](https://drive.google.com/open?id=1_HcqHmJrMhzm2GlPKin2euVE_hietx5c) to our documentation video.
  
 ![img](img/video.png)
 
