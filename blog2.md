@@ -1,64 +1,77 @@
 [<Back](README.md)
 
-## 08/31/19 - Research, Brainstorming and 1st Draft
+## 09/10/19 - Prototype I & II
+### Prototype I
+After the research and ideation, we settled on changing the function of the existing form, by using the ping-pong table in an absurd way and setting it as if in preparation for a formal dinner. We were attracted to the idea of an interactive installation which speaks to surrealism and absurdity. We imagine strangers engaging with the form by sitting at the table and taking pictures with the installation and props, and interacting with other users. 
+#### Concept
+The dining table set for two explores communication and the relationship between two people seated at either end of the table. By interacting with one another through their engagement with the installation, we are creating a formal dining spread like one would experience on a romantic date in an absurd, cartoon-like, altered reality where items are larger than life, brightly colored, and reflective.
+#### Making Process
+After a rough sketch from last round of discussion, we made a few 2D models out of cardboard for prototype I.
 
-### Location:
-Thompkin Square Park
-### Background Research:
-Since its beginnings in the 19th century, Tompkins Square Park has served as a home for New Yorker’s to voice their political dissent. In 1857 and 1875 residents protested job scarcity and the poor economy. In the 1980’s and 90’s, local residents protested gentrification.
+![img](img/cut.png)
+![img](img/cut2.jpg)
 
-![img](img/protest.png)
+We made plates, placemats, sliverwares, wine glasses and roses for each side as symbols to make a dinner date. We also painted them with shinny paint to creative an eye-catching reflective surface.
 
-While we were walking around the park, we found some historical memorial sites as well as an honor memorial tree for the late park supervisor. All of these have made it a lovely public space for residents and vitnessed the change of the park along the history.
+![img](img/finish.jpg)
 
-![img](img/fountain.jpg)
+#### Prototype Model
+After reading *What Do Prototypes Prototype*, we thought our prototype touched all three kinds of prototypes: role, look and feel, and implementation. So we put it in the center and defined it as an integrated prototype.
 
-Temperance Fountain
+![img](img/model.png)
 
-![img](img/memo.png)
-Slocum Memorial Fountain
+#### Questions
+The questions we set out to answer during our first prototype were: 
 
-![img](img/tree.png)
-Harry Greenberg Memorial Tree
+-Are we using the right materials (cardboard)? 
 
-### Design Process 
-#### AEIOU
-![img](img/aeiou.png)
+-Will the setup prompt attention and engagement if we include chairs (an affordance to sit) at the “dining table”? 
 
-#### Brainstroming Tree
-![img](img/bs1.png)
-![img](img/bs2.png)
+-What is the optimal day of the week and time of day for stranger interaction?  
 
-During the observation, we saw an "abandoned" ping-pong table also named after the late supervisor Harry Greenberg. It's nicely buildt and quite spacial but no one was actually using it. Lots of people were walking by because it's well located, but the area is quite cozy and chill since most of them were resting on the bench or walking their dogs. We decided to choose this pingpong table as the spot where the interaction is to happen.
+#### Planned Interaction
+-Strangers will notice, stop, and sit in the chairs.
 
-![img](img/tb1.jpg)
-![img](img/tb2.jpg)
-The Harry Table
+-Play with and engage with the installation.
 
-We also liked the idea of changing the function of something and there is a lot that we could do to turn the ping-pong table into something else.
+-Take pictures of one another.
 
-#### Behavior Mapping
-We mapped the track people walking around the pingpong table and counted how many of each group of people were walking by.
+-Talk to each other.
 
-![img](img/map1.jpeg)
-![img](img/map2.jpeg)
+#### On-Site Test
+We did our first prototype in Tompkins Square Park from 11am to 12pm on Tuesday Sep 3.
 
-### Ideation
-The first idea we came up with was to simply provide a pair of paddle and a pingpong ball and let people play. Adding color on the table and even making a luminous ball could also make it eyecatching and attract people here. 
+![img](img/set.png)
 
-Make the pingpong table function as a pingpong table is a safe choice. But as our brainstorming and ideating going further, we came up with more interesting ideas. How about making it something totally different? There are a few art projects we remembered seeing before:
+We borrowed chairs from the church nearby and set up the table with the cardboard models we made.
 
-![img](img/cb.jpeg)
+![img](img/music.jpg)
 
-*Beyond the Streets, Bill Barminski*
+We also put an iPhone on the divider to play jazz to create a romantic date-like ambiance, which also touched the history of famous jazz musician Charlie Parker who lived just off to the park.
 
-![img](img/dt1.jpeg)
+![img](img/cparkerplace.jpeg)
 
-*Dinner Party, Judy Chicago*
+The test went on for about 40 minutes. Here's the link to our documentation video:
+https://drive.google.com/open?id=1_HcqHmJrMhzm2GlPKin2euVE_hietx5c
+ 
+![img](img/video.png)
 
-#### Sketch
-As shown in our map, there are a lot of couples, friends and students walking by. Why don't we make a table for dates in the park? The setting could be formal and romantic, but more in a fun and playful way. 
+#### Test Findings
+![img](img/findings.png)
 
-![img](img/draft.jpeg)
+#### Conclusion
+-The metallic, shiny, neutral colored 2D props invited curiosity and attention. 
 
-We decided to add chairs around the table, place table cloth, tableware made of cupboard and paper and other items on it to make a fun and beautiful place where people can stop and interact with. As the ping-pong table itself is larger than a regular dinner table for 2, we thought it could be interesting if we made everything on it much bigger than in real life. This also could be considered a "larger than life" concept. We'll observe the interactions(sitting down? taking pics? talking?) and document it by shooting a video. 
+-The installation did not appear as enough of an eye-catching spectacle to generate very much engagement.
+
+-We saw a higher attention rate after we started playing music (jazz for a date-like ambiance) from an iphone on the table. 
+
+-The chairs set up at either end of the dining table sparked attention from people walking by, and brought people’s eyes to the table setting. 
+
+In summary, we found that 2D cardboard props were too hard for people to distinguish and that as a whole, the installation did not appear as enough of an eye-catching spectacle to generate very much engagement. 
+The jazz playing from the iphone significantly increased attention and drew more engagement with the table. 
+
+#### Future Inspiration
+After doing our prototype 1, we were reminded of the performance art piece by Marina Abramovic called “Sitting with Marina” at the Museum of Modern Art in 2010. In the show the artist sat motionless for seven hours at a time, and looked into the eyes of museum visitors sitting across from her at a table until they felt some kind of connection or reaction.
+
+![img](img/marina.jpg)
