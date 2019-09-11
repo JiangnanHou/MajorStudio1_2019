@@ -50,9 +50,7 @@ We also put an iPhone on the divider to play jazz to create a romantic date-like
 
 ![img](img/cparkerplace.jpeg)
 
-The test went on for about 40 minutes. Here's the link to our documentation video:
-
-https://drive.google.com/open?id=1_HcqHmJrMhzm2GlPKin2euVE_hietx5c
+The test went on for about 40 minutes. Here's the [link](https://drive.google.com/open?id=1_HcqHmJrMhzm2GlPKin2euVE_hietx5c) to our documentation video.
  
 ![img](img/video.png)
 
