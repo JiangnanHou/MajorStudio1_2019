@@ -2,7 +2,7 @@
 
 ## 09/10/19 - Prototype II
 #### Making Process
-According to the in-class feedback from prototype I, we added a light-up experience to create unexpected surprise of lighting the other person’s candle (on the opposite side of the table). We also made large 3D tablewares to invite users to stop and investigate by looking and touching.
+According to the in-class feedback from prototype I, we added a light-up experience to create unexpected surprise of lighting the other person’s candle (on the opposite side of the table). We also made large 3D tablewares to invite users to stop and investigate by looking and touching. We covered the table and chairs with soft white tablecloth to create more dreamy experience.
 
 ![img](img/make1.jpg)
 ![img](img/make2.png)
@@ -10,12 +10,13 @@ According to the in-class feedback from prototype I, we added a light-up experie
 
 
 #### On-site testing
+We tested twice for prototype II. One without chair on Saturday night, and the other one with chairs and reflective placemats on Sunday nights. We broke the two tests down to three phases: 1,Saturday test; 2,Sunday test before a couple rearranged the setting; 3,Sunday test after resetting.
 
 Click this [link](https://drive.google.com/open?id=1Nz5iqj0qb5GbPiJ6AudZ57LmWn1qfuNE) to view our documentation video.
 
+![img](img/video2.png)
 
 #### Primary reactions/feelings we are targeting: 
-
 -Emotional
 
 -Playful
@@ -54,13 +55,10 @@ The lights and white tablecloth and chair coverings made the overall appearance 
 
 -Leaving one candle lit sparks curiosity.
 
-![img](img/model.png)
-
-
 #### What did we change to make the interactions longer?
 After one couple rearranged the objects on the table to create a divider out of the mirrored placemats, we left them that way. The candles were reflected when the mirrors were placed vertically behind them, giving the seated viewer a more surreal and strange field of vision. We left the mirrors set up that way for other users to experience.
 
-![img](img/set.png)
+![img](img/p3.gif)
 
 
 #### Feedback
@@ -93,3 +91,5 @@ One of our users said “I wish this kind of thing was everywhere!” as she lef
 
 We also want users to reflect on the idea that there is no “end-goal”, that they are not “playing to win”  anything. 
 Many of our prototype testers approached the installation with a competitive, game-play perspective and the idea that they had something to “win” by being “competing” with the person or (seen as the “other player”) on the opposite side of the table. The statement we are making is that there is nothing to win or lose, just art and the experience of being present. 
+
+![img](img/p2.png)
