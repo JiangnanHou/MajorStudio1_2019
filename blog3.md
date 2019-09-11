@@ -1,77 +1,95 @@
 [<Back](README.md)
 
-## 09/10/19 - Prototype I & II
-### Prototype I
-After the research and ideation, we settled on changing the function of the existing form, by using the ping-pong table in an absurd way and setting it as if in preparation for a formal dinner. We were attracted to the idea of an interactive installation which speaks to surrealism and absurdity. We imagine strangers engaging with the form by sitting at the table and taking pictures with the installation and props, and interacting with other users. 
-#### Concept
-The dining table set for two explores communication and the relationship between two people seated at either end of the table. By interacting with one another through their engagement with the installation, we are creating a formal dining spread like one would experience on a romantic date in an absurd, cartoon-like, altered reality where items are larger than life, brightly colored, and reflective.
+## 09/10/19 - Prototype II
 #### Making Process
-After a rough sketch from last round of discussion, we made a few 2D models out of cardboard for prototype I.
+According to the in-class feedback from prototype I, we added a light-up experience to create unexpected surprise of lighting the other person’s candle (on the opposite side of the table). We also made large 3D tablewares to invite users to stop and investigate by looking and touching.
 
-![img](img/cut.png)
-![img](img/cut2.jpg)
+![img](img/make1.jpg)
+![img](img/make2.png)
+![img](img/p1.jpg)
 
-We made plates, placemats, sliverwares, wine glasses and roses for each side as symbols to make a dinner date. We also painted them with shinny paint to creative an eye-catching reflective surface.
 
-![img](img/finish.jpg)
+#### On-site testing
 
-#### Prototype Model
-After reading *What Do Prototypes Prototype*, we thought our prototype touched all three kinds of prototypes: role, look and feel, and implementation. So we put it in the center and defined it as an integrated prototype.
+Click this [link](https://drive.google.com/open?id=1Nz5iqj0qb5GbPiJ6AudZ57LmWn1qfuNE) to view our documentation video.
+
+
+#### Primary reactions/feelings we are targeting: 
+
+-Emotional
+
+-Playful
+
+-Explorative/Investigative
+
+-Reflective
+
+The interactive installation evokes emotions through the design of surrealistic scene encountered as an interactive experience. The formal dinner date setting is meant to evoke sentimentality, romance, and highlights communication and the relationship between two people. The musical experience carried by jazz is meant to evoke the romantic feelings of a date and sentimental emotions connected to the jazz history of the location (Charlie Parker’s home across the street.) 
+
+We want the experience to be led by curiosity and exploration. The interactive, light-up experience and the unexpected surprise of lighting the other person’s candle (on the opposite side of the table) is meant to deliver a whimsical, altered-reality experience through curious discovery. Including large, oversized objects invites users to stop and investigate by looking and touching.
+
+![img](img/set2.jpg)
+
+#### How do we initiate interaction with the user?
+We left one of the candles lit, and turned the other candle off, so that users would be attracted to the lights and see that there was the possibility of turning them on or off. This also offered the affordance and opportunity to discover how to light or turn off the candles. 
+
+A hidden speaker inside of the vase playing jazz drew strangers to the table to investigate and stop to explore the scene. 
+
+The lights and white tablecloth and chair coverings made the overall appearance of the scene eye-catching and highly noticeable to strangers from very far away (as we were told by users.)
+
+![img](img/stand.jpg)
+
+#### What role does the form play in initiating the desired interactions?
+-The original “game-play” function lingers as a subtle influence. 
+
+-Chairs offer the affordance of sitting at a dinner table. (new)
+
+-Remote controls give the affordance to pick up and press buttons.. 
+
+-The music beckons strangers to stop and explore the table. 
+
+-The reflective surface magnifies the lights. (new)
+
+-The jumbo scale candles coated in glitter are highly visible and reflective.
+
+-Leaving one candle lit sparks curiosity.
 
 ![img](img/model.png)
 
-#### Questions
-The questions we set out to answer during our first prototype were: 
 
--Are we using the right materials (cardboard)? 
-
--Will the setup prompt attention and engagement if we include chairs (an affordance to sit) at the “dining table”? 
-
--What is the optimal day of the week and time of day for stranger interaction?  
-
-#### Planned Interaction
--Strangers will notice, stop, and sit in the chairs.
-
--Play with and engage with the installation.
-
--Take pictures of one another.
-
--Talk to each other.
-
-#### On-Site Test
-We did our first prototype in Tompkins Square Park from 11am to 12pm on Tuesday Sep 3.
+#### What did we change to make the interactions longer?
+After one couple rearranged the objects on the table to create a divider out of the mirrored placemats, we left them that way. The candles were reflected when the mirrors were placed vertically behind them, giving the seated viewer a more surreal and strange field of vision. We left the mirrors set up that way for other users to experience.
 
 ![img](img/set.png)
 
-We borrowed chairs from the church nearby and set up the table with the cardboard models we made.
 
-![img](img/music.jpg)
+#### Feedback
+We received lots of notes on the beauty of the installation and that it was romantic or “cool.”
 
-We also put an iPhone on the divider to play jazz to create a romantic date-like ambiance, which also touched the history of famous jazz musician Charlie Parker who lived just off to the park.
+“It’s daring.” One man left and then came back 15 minutes later to tell us that he thought this.
 
-![img](img/cparkerplace.jpeg)
+“Is this supposed to make me feel high? I feel like I’m 45 minutes into tripping right now.” This is successful to us because we are striving to create a surreal, altered reality.
 
-The test went on for about 40 minutes. Here's the link to our documentation video:
-https://drive.google.com/open?id=1_HcqHmJrMhzm2GlPKin2euVE_hietx5c
- 
-![img](img/video.png)
+“It is beautiful and creative.” This was said by the park employees who were surveying the area, they thought it was particularly meaningful that it paid tribute to Charlie Parker who lived by the park, by using jazz.
 
-#### Test Findings
-![img](img/findings.png)
+“This reminds me of something that would be very meaningful to two people who met here in this park, and their romantic story.”
 
-#### Conclusion
--The metallic, shiny, neutral colored 2D props invited curiosity and attention. 
+“This makes me think of the isolation people experience because of their obsession with devices and using their cellphones.”
+We actually found this feedback gave us a fresh new perspective to our statement by changing the setting for the reflective surface. It was really helpful and we iterated our concept based on that comment.
 
--The installation did not appear as enough of an eye-catching spectacle to generate very much engagement.
+![img](img/feedback.jpg)
 
--We saw a higher attention rate after we started playing music (jazz for a date-like ambiance) from an iphone on the table. 
+#### Concept iteration
+Strangers are given the opportunity to reflect on the unusual scene featuring a formal dining table set for a romantic date in an unexpected setting. The larger-than-life objects and dreamy aesthetic invite the user into a surreal, dream-like situation. The reflective surfaces act as dividers in the center of the table, reflecting each individual’s side of the table and their own candle. 
 
--The chairs set up at either end of the dining table sparked attention from people walking by, and brought people’s eyes to the table setting. 
+This is a commentary on people’s preoccupation with playing with tech-devices and not being present in the company of others. Despite dining together at a table, each user is preoccupied with their remote control device and the isolation of their own reflection. 
 
-In summary, we found that 2D cardboard props were too hard for people to distinguish and that as a whole, the installation did not appear as enough of an eye-catching spectacle to generate very much engagement. 
-The jazz playing from the iphone significantly increased attention and drew more engagement with the table. 
+#### Meanings of the experience
+We hope that user’s will continue to think about the experience and carry their reflections with them when they dine with others, or communicate/interact with other people. 
 
-#### Future Inspiration
-After doing our prototype 1, we were reminded of the performance art piece by Marina Abramovic called “Sitting with Marina” at the Museum of Modern Art in 2010. In the show the artist sat motionless for seven hours at a time, and looked into the eyes of museum visitors sitting across from her at a table until they felt some kind of connection or reaction.
+We want people to see their preoccupation with technology from a different perspective, and reflect on how staring into their cell phone or device cuts them off from the experience of being present with another person.  The idea of being at a romantic table for two, where they are isolated by the reflection of their own side of the table while they interact with someone on the other side. In this way, we are making a statement with the installation and interaction which we hope will stay with the user beyond this experience. 
 
-![img](img/marina.jpg)
+One of our users said “I wish this kind of thing was everywhere!” as she left the installation.  We hope that users will look at the “real” world and everyday situations through a different lense after this experience. Maybe they will look at things with more curiosity and see more possibilities for surreal, unexpected experiences in everyday life. 
+
+We also want users to reflect on the idea that there is no “end-goal”, that they are not “playing to win”  anything. 
+Many of our prototype testers approached the installation with a competitive, game-play perspective and the idea that they had something to “win” by being “competing” with the person or (seen as the “other player”) on the opposite side of the table. The statement we are making is that there is nothing to win or lose, just art and the experience of being present. 
