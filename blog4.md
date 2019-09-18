@@ -24,7 +24,7 @@ The reflective surfaces act as dividers in the center of the table, reflecting e
 
 ![img](img/plate.jpg)
 ![img](img/rose.jpg)
-![img](img/vase.jpg)
+![img](img/vase1.jpg)
 ![img](img/newset.jpg)
 ![img](img/tri.jpg)
 
