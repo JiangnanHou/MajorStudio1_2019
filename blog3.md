@@ -1,6 +1,6 @@
 [<Back](README.md)
 
-## 09/10/19 - Prototype II
+## 09/09/19 - Prototype II
 #### Making Process
 According to the in-class feedback from prototype I, we added a light-up experience to create unexpected surprise of lighting the other person’s candle (on the opposite side of the table). We also made large 3D tablewares to invite users to stop and investigate by looking and touching. We covered the table and chairs with soft white tablecloth to create more dreamy experience.
 
