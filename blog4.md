@@ -2,7 +2,8 @@
 
 ## 09/14/19 - Prototype III
 #### Concept Recap
-##### Public Date
+Public Date
+
 The dining table set for two explores communication and the relationship between people at the table. The formal dining spread, like one would experience on a romantic date, is set in a dreamy, surreal, altered reality in an unexpected location. The larger-than-life objects and surrealist aesthetic invite the user into a dream-like situation. 
 
 The reflective surfaces act as dividers in the center of the table, reflecting each individual’s side of the table and their own candle. This is a commentary on people’s preoccupation with playing with tech-devices and not being present in the company of others. Despite dining together at a table, each user is preoccupied with their remote control device and the isolation of their own reflection. 
