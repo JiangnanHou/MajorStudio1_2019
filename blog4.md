@@ -1,95 +1,76 @@
 [<Back](README.md)
 
-## 09/10/19 - Prototype II
-#### Making Process
-According to the in-class feedback from prototype I, we added a light-up experience to create unexpected surprise of lighting the other person’s candle (on the opposite side of the table). We also made large 3D tablewares to invite users to stop and investigate by looking and touching. We covered the table and chairs with soft white tablecloth to create more dreamy experience.
+## 09/14/19 - Prototype III
+#### Concept Recap
+##### Public Date
+The dining table set for two explores communication and the relationship between people at the table. The formal dining spread, like one would experience on a romantic date, is set in a dreamy, surreal, altered reality in an unexpected location. The larger-than-life objects and surrealist aesthetic invite the user into a dream-like situation. 
+The reflective surfaces act as dividers in the center of the table, reflecting each individual’s side of the table and their own candle. This is a commentary on people’s preoccupation with playing with tech-devices and not being present in the company of others. Despite dining together at a table, each user is preoccupied with their remote control device and the isolation of their own reflection. 
 
-![img](img/make1.jpg)
-![img](img/make2.png)
-![img](img/p1.jpg)
+#### Changes
+-Roses made of wire, fabric, and cellophane. (Six roses in a vase.)
 
+-Warm fairy lights added to vase with roses. 
+
+-Placemats with mirror surface in addition to the reflective slanted dividers.
+
+-Plates (giant sized) which we place the remote control inside of.
+
+-Lights shining on the remote controls placed inside of the giant plates.
+
+-We set up a tripod with an iPhone video camera to capture interactions. 
+
+-No convos at all between us and the strangers until after they had experienced the interaction. 
+
+![img](img/plate.jpg)
+![img](img/rose.jpg)
+![img](img/vase.jpg)
+![img](img/newset.jpg)
+![img](img/tri.jpg)
 
 #### On-site testing
-We tested twice for prototype II. One without chair on Saturday night, and the other one with chairs and reflective placemats on Sunday nights. We broke the two tests down to three phases: 1,Saturday test; 2,Sunday test before a couple rearranged the setting; 3,Sunday test after resetting.
+We tested on Saturday night from 9pm to 10:30pm. The installation kept attracting people's attention continuously since we were setting up. More than 10 groups of people stopped and interacted. The longest interaction lasted about 5 minutes.
 
-Click this [link](https://drive.google.com/open?id=1Nz5iqj0qb5GbPiJ6AudZ57LmWn1qfuNE) to view our documentation video.
+Click this [link](https://drive.google.com/open?id=1cQXJUC7T6oAbRj4ZPOUHZSVAOV_O99UG) to view our documentation video.
 
-![img](img/video2.png)
-
-#### Primary reactions/feelings we are targeting: 
--Emotional
-
--Playful
-
--Explorative/Investigative
-
--Reflective
-
-The interactive installation evokes emotions through the design of surrealistic scene encountered as an interactive experience. The formal dinner date setting is meant to evoke sentimentality, romance, and highlights communication and the relationship between two people. The musical experience carried by jazz is meant to evoke the romantic feelings of a date and sentimental emotions connected to the jazz history of the location (Charlie Parker’s home across the street.) 
-
-We want the experience to be led by curiosity and exploration. The interactive, light-up experience and the unexpected surprise of lighting the other person’s candle (on the opposite side of the table) is meant to deliver a whimsical, altered-reality experience through curious discovery. Including large, oversized objects invites users to stop and investigate by looking and touching.
-
-![img](img/set2.jpg)
-
-#### How do we initiate interaction with the user?
-We left one of the candles lit, and turned the other candle off, so that users would be attracted to the lights and see that there was the possibility of turning them on or off. This also offered the affordance and opportunity to discover how to light or turn off the candles. 
-
-A hidden speaker inside of the vase playing jazz drew strangers to the table to investigate and stop to explore the scene. 
-
-The lights and white tablecloth and chair coverings made the overall appearance of the scene eye-catching and highly noticeable to strangers from very far away (as we were told by users.)
-
-![img](img/stand.jpg)
-
-#### What role does the form play in initiating the desired interactions?
--The original “game-play” function lingers as a subtle influence. 
-
--Chairs offer the affordance of sitting at a dinner table. (new)
-
--Remote controls give the affordance to pick up and press buttons.. 
-
--The music beckons strangers to stop and explore the table. 
-
--The reflective surface magnifies the lights. (new)
-
--The jumbo scale candles coated in glitter are highly visible and reflective.
-
--Leaving one candle lit sparks curiosity.
-
-#### What did we change to make the interactions longer?
-After one couple rearranged the objects on the table to create a divider out of the mirrored placemats, we left them that way. The candles were reflected when the mirrors were placed vertically behind them, giving the seated viewer a more surreal and strange field of vision. We left the mirrors set up that way for other users to experience.
-
-![img](img/p3.gif)
-
+![img](img/sit.png)
 
 #### Feedback
-We received lots of notes on the beauty of the installation and that it was romantic or “cool.”
+“It’s very romantic and kind of witchy.” - Musician.
 
-“It’s daring.” One man left and then came back 15 minutes later to tell us that he thought this.
+“Are you having dinner or a seance?” -Single woman.
 
-“Is this supposed to make me feel high? I feel like I’m 45 minutes into tripping right now.” This is successful to us because we are striving to create a surreal, altered reality.
+“I’m confused...I accept it.” -Guy walking by in a large group with his friends.
 
-“It is beautiful and creative.” This was said by the park employees who were surveying the area, they thought it was particularly meaningful that it paid tribute to Charlie Parker who lived by the park, by using jazz.
+“It’s a social experiment. Is that what it is?” - A Parsons film student.
 
-“This reminds me of something that would be very meaningful to two people who met here in this park, and their romantic story.”
+“It’s really neat.” - Little boy, around six years old.
 
-“This makes me think of the isolation people experience because of their obsession with devices and using their cellphones.”
-We actually found this feedback gave us a fresh new perspective to our statement by changing the setting for the reflective surface. It was really helpful and we iterated our concept based on that comment.
+“This is why we live in NYC. You won’t find this in Orange County.” -Little boy’s mother.
 
-![img](img/feedback.jpg)
+The installation reminded someone of EDM (Electronic Digital Music) festivals where people incorporate glowing and light up fashion, jewelry, and accessories. 
+We were also told that the project reminded someone else of the Seaglass Carousel at Battery Park which incorporates 
+soothing ambient  ambient music and glowing underwater scenery.
 
-#### Concept iteration
-Strangers are given the opportunity to reflect on the unusual scene featuring a formal dining table set for a romantic date in an unexpected setting. The larger-than-life objects and dreamy aesthetic invite the user into a surreal, dream-like situation. The reflective surfaces act as dividers in the center of the table, reflecting each individual’s side of the table and their own candle. 
+![img](img/seaglass.jpg)
+![img](img/edm.jpg)
 
-This is a commentary on people’s preoccupation with playing with tech-devices and not being present in the company of others. Despite dining together at a table, each user is preoccupied with their remote control device and the isolation of their own reflection. 
+#### Meaningfulness
+-Two strangers met at the installation, and ended up leaving together to get drinks and go on a **DATE**! The installation became an ice-breaker for them.
 
-#### Meanings of the experience
-We hope that user’s will continue to think about the experience and carry their reflections with them when they dine with others, or communicate/interact with other people. 
+-Most people were unaware of the rich jazz history of the location and were excited to learn about the historical connection to the installation. 
 
-We want people to see their preoccupation with technology from a different perspective, and reflect on how staring into their cell phone or device cuts them off from the experience of being present with another person.  The idea of being at a romantic table for two, where they are isolated by the reflection of their own side of the table while they interact with someone on the other side. In this way, we are making a statement with the installation and interaction which we hope will stay with the user beyond this experience. 
+-The original game play function of the ping-pong table maintains its influence and a layer of meaning: responsive, playful back-and-forth. 
 
-One of our users said “I wish this kind of thing was everywhere!” as she left the installation.  We hope that users will look at the “real” world and everyday situations through a different lense after this experience. Maybe they will look at things with more curiosity and see more possibilities for surreal, unexpected experiences in everyday life. 
+-The theme of communication and connection is highlighted through the metaphor of lighting the other person’s candle. 
 
-We also want users to reflect on the idea that there is no “end-goal”, that they are not “playing to win”  anything. 
-Many of our prototype testers approached the installation with a competitive, game-play perspective and the idea that they had something to “win” by being “competing” with the person or (seen as the “other player”) on the opposite side of the table. The statement we are making is that there is nothing to win or lose, just art and the experience of being present. 
+-The reflective mirrors mimic the experience of isolation resulting from people’s obsessions with their gadgets - interrupting what was once quality time during dinner. 
 
-![img](img/p2.png)
+-We created the experience and influence for kids of art and music.
+
+#### Future Ideas
+-We would love to be able to program objects on one end of the table to light up or react when objects on the other side are moved or picked up. Ideally we would incorporate motion sensors.
+-Making more objects for the table is our ideal vision.
+-We want to incorporate the remote control functionality into a giant spoon. The size of the remote needs to be increased to be more noticable. It would ideally light up and be very prominent. We would like the remote control to be hidden in a piece of silverware so that it is more meaningful to the expected dining experience.
+-Bigger, more easily recognizable remote control buttons on the spoon (big red and green buttons) would be ideal as some people didn’t notice the buttons on the existing remote control. 
+-The range of the sensor for the existing remote control is very limited. People had to point directly at the divider. Ideally a sensor with a wider range would be used. 
+
