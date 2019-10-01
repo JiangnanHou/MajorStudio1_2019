@@ -2,7 +2,8 @@
 
 ## 09/14/19 - Prototype III
 #### Concept Recap
-##### Public Date
+Public Date
+
 The dining table set for two explores communication and the relationship between people at the table. The formal dining spread, like one would experience on a romantic date, is set in a dreamy, surreal, altered reality in an unexpected location. The larger-than-life objects and surrealist aesthetic invite the user into a dream-like situation. 
 
 The reflective surfaces act as dividers in the center of the table, reflecting each individual’s side of the table and their own candle. This is a commentary on people’s preoccupation with playing with tech-devices and not being present in the company of others. Despite dining together at a table, each user is preoccupied with their remote control device and the isolation of their own reflection. 
@@ -24,7 +25,7 @@ The reflective surfaces act as dividers in the center of the table, reflecting e
 
 ![img](img/plate.jpg)
 ![img](img/rose.jpg)
-![img](img/vase.jpg)
+![img](img/vase1.jpg)
 ![img](img/newset.jpg)
 ![img](img/tri.jpg)
 
@@ -79,3 +80,7 @@ soothing ambient  ambient music and glowing underwater scenery.
 
 -The range of the sensor for the existing remote control is very limited. People had to point directly at the divider. Ideally a sensor with a wider range would be used. 
 
+#### Reflections
+This is really a good experience of group work and I particularly like how we really go outside to the city and made something working. I'm new to New York but luckily I have a partner who is local. I'm glad we chose Tompkin Square Park as our location where usually local people are hanging out and they appreciated the art project we did and the beautiful scene we added to the park. We had so many good conversations with people (maybe too much) and the feedback were inspiring and gave us confidence to keep going. 
+
+I also had a great time working with my partner Amber. We are from completely different backgrounds, but that kind of became a strength that we do our best to help each other with their weakness and the diversity of knowledge sparked more good ideas. We both enjoyed the progress and encouraged each other to do better next time. The biggest problem we had was that we were too ambitious at the beginning and wanted to do something more than we could under the time and budget limitation. We indeed spent too much money and time on the project and felt exhausted at our second prototype. But eventually we tried to learn from the process and enjoyed it instead of focusing too much on the result. I'm so glad we finally had good interaction and feedback from both audiences and the class, that's really encouraging and satisfactory. 
