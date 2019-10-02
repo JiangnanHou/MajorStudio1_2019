@@ -2,7 +2,7 @@
 ### [10/01/19 - Research Observation](blog5.md)
 [![img](img/pv5.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog5.html)
 
-## ---------------------------------------------------------------------------
+## -------------------------------------------------------------------------
 ## Instruction Sets for Strangers
 ### [08/31/19 - Research, Brainstorming and 1st Draft](blog1.md)
 [![img](img/pv1.jpg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog1.html)
