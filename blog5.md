@@ -9,11 +9,22 @@ The two questions I kept are:
 
 During the online comment section, I received a lot of valuable feedback from my class to my questions, observation methods and enriched my inventory. I looked up the links of articles and have been reading them since last Wednesday. 
 ### Question 1: How to create a better dining experience for single eater?
-In my own experience and also mentioned a lot in the comments, it seems like solo dinning is heavily influenced by Japanese culture. Thus I chose 2 Ramen places to observe single eater's behaviors.
+In my own experience and also mentioned a lot in the comments, it seems like solo dinning is heavily influenced by Japanese culture. Thus I chose two ramen places to observe single eater's behaviors.
 #### Ramen Takumi
 Location: Waverly Pl, near Washington Square Park
 
-Time: 9:25-9:45pm
+Time: 9:25-9:50pm
+
+Ramen Takumi is a medium sized street corner restaurant near my apartment. The costumers are usaully NYU students and local residents. It opens to 11:00pm which attracts late night eaters.
+
+![img](img/tkwindow.jpg)
+Single eaters are seated at the bar by the window.
+![img](img/tkback.jpg)
+Most of the tables for two or four are at the center of the restaurant.
+![img](img/tkfood.jpg)
+The open view was pretty nice despite sometimes there are passer-bys looking closely at you eating.
+![img](img/tkmout.jpg)
+
 
 #### Ichiran
 Location: 49th St, near Time Square
@@ -53,14 +64,19 @@ When they are serving, all you see is the hands.
 After eating, you just need to take this payment plate to the cashier and pay there.
 
 ![img](img/booth.gif)
+
 The observation in Ichiran is mostly based on myself as a single eater here, since it's designed to have everyone isolated in their own booth. 
 I must say this was a comfortable and delightful dinning experience as a single eater. The design is based on the core concept "isolation", but opposite to loneliness: the warm lighting, the traditional Japanese style wooden furniture together with the red curtain halfly covered the entrance of the section, created a safe environment where no one is judging or peeking on you.  Everything was done quickly, the food was served in 8 minutes and I finished the whole process of eating and paying in 20 minutes. The amazing part was I didn't feel rushed or pressured to eat fast, but finished everything in a comfortable pace. I would say that the well organized process and clear instructions helped, but most importantly, you're not under the gaze of anyone, the waiters, the other customers eating or people who are waiting. 
 
-There was another interesting and refreshing finding of this observation. Despite of the interior design, I couldn't help but noticed that the sound inside the dinning area was playing an important role to the atmosphere. Customers weren't actually talking to each other, but waiters are constantly talking to incoming costumers and to each other about what's happening. They're all people who were trained to talk politely and delightfully, so the room is filled with laughter and cheerful chatters. Also the soothing background music and crisp clinking of the plates and cups made a joyful festival atmosphere, which kind of lead you to a Japanese movie scene. I recorded the ambience for 6 minutes:
-[Click here to listen](https://drive.google.com/file/d/1iZGPgyjLjTLkG0JflOpcgDDVoXWYHhGq/view?usp=sharing)
+There was another interesting and refreshing finding of this observation. Despite of the interior design, I couldn't help but noticed that the sound inside the dinning area was playing an important role to the atmosphere. Customers weren't actually talking to each other, but waiters are constantly talking to incoming costumers and to each other about what's happening. They're all people who were trained to talk politely and delightfully, so the room is filled with laughter and cheerful chatters. Also the soothing background music and crisp clinking of the plates and cups made a joyful festival atmosphere, which kind of lead you to a Japanese movie scene. The happening surroundings give single eaters not only a lively mood, but also a home-like feeling of not being alone. 
+I recorded the ambience for 6 minutes:
+[Click here to listen.](https://drive.google.com/file/d/1iZGPgyjLjTLkG0JflOpcgDDVoXWYHhGq/view?usp=sharing)
 
 ### Question 2: How can negative emotions/experiences (sorrow/pain/anger/stress…) be turned into power/strength?
+I've been reading articles and studies about negative feelings and creativity, and also reading peoms, paintings and other art works created by people who were suffering mental diseases or traumatized. Among which, I was pretty amazed by Kim Noble, an artist and author who has Dissociative Identity Disorder (DID). DID is a creative way to cope with unbearable pain. The main personality splits into several parts each having an amnesic barrier between them. In and out of hospital from the age of 14, with no formal art training, Kim and her alters became interested in painting in 2004 after spending a short time with an art therapist. The resulting 13 artists each have their own distinctive style, colour and themes that they work with. Many are unaware they share a body with other artists. 
+![img](img/kimnoble.png)
+Kim and her alters' paintings.
 
+I'm always curious about art therapy. Seeing the Kim's amazing talent discovered by her art therapist, I was more inspired to dig into the field of art therapy. Thus I visited the website fo American Art Therapy Association, an official website where you can find almost everything about art therapy in America. I learned a lot about how to qualify as an art therapist and some master programs in New York, and then I found this tool "Art therapist locater".
 ![img](img/aata.png)
-
-
+In this map, you can find all the qualified art therapist in America by location. If you click on the dots, you can read a brief introduction and background of the person and most importantly, the person's contact info. I decided to use this information and try to find an art therapist I could talk to. I sent emails to five art therapist in Manhattan and told them about my project and my personal interest in art therapy. I know this is a long shot but still worth trying. Finally, one of the art therapist Alison Cunningham-Goldberg, wrote back and agreed to meet me. She is the cofounder and clinical director of Linda Garcia-Rose & Associates. I'm very excited about this interview on Thursday and am preparing for the questions. To be continued...
