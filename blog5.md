@@ -22,7 +22,7 @@ Time: 11:00-11:30am
 
 Founded in Fukuoka in 1960, Ichiran believes isolation eating helps people focus on their food. It eliminates the need for exchanging saccharine pleasantries with servers or companions. Most importantly, it helps fight the stigma of dining alone. The concept became so popular that Ichiran grew to almost 60 restaurants today. It helped popularize other solo dining experiences, such as conveyor belt sushi and counter cafes.
 ![img](img/ichi1.jpg)
-Ichiran is so popular that there is usually an hour waiting for a seat. I went there at the opening time in the morning so I could to seated immdiately.
+Ichiran is so popular that there is usually an hour waiting for a seat. I went there at the opening time in the morning so I could be seated immdiately.
 ![img](img/ichi2.jpg)
 There is a map in the waiting area indicating the vacancy right now. We can also tell by the floor plan that there are no tables for two or more people but only bar seats. There are three separate dinning sections behind these red curtains.
 ![img](img/ichi3.jpg)
@@ -49,6 +49,15 @@ Once you finished order, a Japanese style bamboo curtain dropped down to separat
 Interesting detail: they even have an instruction for how to peel an egg quickly.
 ![img](img/ichihand.jpg)
 When they are serving, all you see is the hands.
+![img](img/ichipay.jpg)
+After eating, you just need to take this payment plate to the cashier and pay there.
+
+![img](img/booth.gif)
+The observation in Ichiran is mostly based on myself as a single eater here, since it's designed to have everyone isolated in their own booth. 
+I must say this was a comfortable and delightful dinning experience as a single eater. The design is based on the core concept "isolation", but opposite to loneliness: the warm lighting, the traditional Japanese style wooden furniture together with the red curtain halfly covered the entrance of the section, created a safe environment where no one is judging or peeking on you.  Everything was done quickly, the food was served in 8 minutes and I finished the whole process of eating and paying in 20 minutes. The amazing part was I didn't feel rushed or pressured to eat fast, but finished everything in a comfortable pace. I would say that the well organized process and clear instructions helped, but most importantly, you're not under the gaze of anyone, the waiters, the other customers eating or people who are waiting. 
+
+There was another interesting and refreshing finding of this observation. Despite of the interior design, I couldn't help but noticed that the sound inside the dinning area was playing an important role to the atmosphere. Customers weren't actually talking to each other, but waiters are constantly talking to incoming costumers and to each other about what's happening. They're all people who were trained to talk politely and delightfully, so the room is filled with laughter and cheerful chatters. Also the soothing background music and crisp clinking of the plates and cups made a joyful festival atmosphere, which kind of lead you to a Japanese movie scene. I recorded the ambience for 6 minutes:
+[Click here to listen](https://drive.google.com/file/d/1iZGPgyjLjTLkG0JflOpcgDDVoXWYHhGq/view?usp=sharing)
 
 ### Question 2: How can negative emotions/experiences (sorrow/pain/anger/stress…) be turned into power/strength?
 
