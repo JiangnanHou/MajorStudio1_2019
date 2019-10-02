@@ -16,4 +16,4 @@
 
 ## 2019 Final Project
 ### [10/01/19 - Research Observation](blog5.md)
-[![img](img/pv5.jpg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog5.html)
+[![img](img/pv5.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog5.html)
