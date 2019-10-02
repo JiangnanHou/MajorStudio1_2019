@@ -1,81 +1,57 @@
 [<Back](README.md)
 
-## 09/14/19 - Prototype III
-#### Concept Recap
-##### Public Date
-The dining table set for two explores communication and the relationship between people at the table. The formal dining spread, like one would experience on a romantic date, is set in a dreamy, surreal, altered reality in an unexpected location. The larger-than-life objects and surrealist aesthetic invite the user into a dream-like situation. 
+## 10/01/19 - Research Observation
+The two questions I kept are:
 
-The reflective surfaces act as dividers in the center of the table, reflecting each individual’s side of the table and their own candle. This is a commentary on people’s preoccupation with playing with tech-devices and not being present in the company of others. Despite dining together at a table, each user is preoccupied with their remote control device and the isolation of their own reflection. 
+1.How to create a better dining experience for single eater?
 
-#### Changes
--Roses made of wire, fabric, and cellophane. (Six roses in a vase.)
+2.How can negative emotions/experiences(sorrow/pain/anger/stress…) be turned into power/strength?
 
--Warm fairy lights added to vase with roses. 
+During the online comment section, I received a lot of valuable feedback from my class to my questions, observation methods and enriched my inventory. I looked up the links of articles and have been reading them since last Wednesday. 
+### Question 1: How to create a better dining experience for single eater?
+In my own experience and also mentioned a lot in the comments, it seems like solo dinning is heavily influenced by Japanese culture. Thus I chose 2 Ramen places to observe single eater's behaviors.
+#### Ramen Takumi
+Location: Waverly Pl, near Washington Square Park
 
--Placemats with mirror surface in addition to the reflective slanted dividers.
+Time: 9:25-9:45pm
 
--Plates (giant sized) which we place the remote control inside of.
+#### Ichiran
+Location: 49th St, near Time Square
 
--Lights shining on the remote controls placed inside of the giant plates.
+Time: 11:00-11:30am
 
--We set up a tripod with an iPhone video camera to capture interactions. 
+Founded in Fukuoka in 1960, Ichiran believes isolation eating helps people focus on their food. It eliminates the need for exchanging saccharine pleasantries with servers or companions. Most importantly, it helps fight the stigma of dining alone. The concept became so popular that Ichiran grew to almost 60 restaurants today. It helped popularize other solo dining experiences, such as conveyor belt sushi and counter cafes.
+![img](img/ichi1.jpg)
+Ichiran is so popular that there is usually an hour waiting for a seat. I went there at the opening time in the morning so I could to seated immdiately.
+![img](img/ichi2.jpg)
+There is a map in the waiting area indicating the vacancy right now. We can also tell by the floor plan that there are no tables for two or more people but only bar seats. There are three separate dinning sections behind these red curtains.
+![img](img/ichi3.jpg)
+Each person is seated in a booth and isolated by tall dividers on both sides.
+![img](img/ichibooth.jpg)
+A pano view of a booth. They put up all the information you need in the booth so you don't have to talk or ask questions.
+![img](img/ichiorder.jpg)
+A survey sheet for your dinning experience and short questions about where you're from, how did you get here and how did you know Ichiran.
+![img](img/ichihook.jpg)
+A hook under your table to hang your stuff on. There are also hooks on the wall at your back.
+![img](img/ichipaper.jpg)
+self-service water machine, tissue and toothpicks located at the center of each section.
+![img](img/ichifold.jpg)
+These dividers are acutaully foldable in case there are parties more than one.
+![img](img/ichifam.jpg)
+For example, for this family, they folded the divider to make it a triple sized booth.
+![img](img/ichiopen.jpg)
+When you're first seated, you have an open view in front of your booth. It's a small rectangular window so all you can see is a waiter's arms. They hand in the menu and give you a brief introduction of how to use everything. 
+![img](img/ichipeak.jpg)
+The waiters work in the middle of two sections so they can walk back and forth to serve both sides. 
+![img](img/ichiclose.jpg)
+Once you finished order, a Japanese style bamboo curtain dropped down to separate you from the waiters. There is a call button on your table so you can call them whenever you have any needs.
+![img](img/ichiegg.jpg)
+Interesting detail: they even have an instruction for how to peel an egg quickly.
+![img](img/ichihand.jpg)
+When they are serving, all you see is the hands.
 
--No convos at all between us and the strangers until after they had experienced the interaction. 
+### Question 2: How can negative emotions/experiences (sorrow/pain/anger/stress…) be turned into power/strength?
 
-![img](img/plate.jpg)
-![img](img/rose.jpg)
-![img](img/vase.jpg)
-![img](img/newset.jpg)
-![img](img/tri.jpg)
+![img](img/aata.png)
 
-#### On-site testing
-We tested on Saturday night from 9pm to 10:30pm. The installation kept attracting people's attention continuously since we were setting up. More than 10 groups of people stopped and interacted. The longest interaction lasted about 5 minutes.
-
-Click this [link](https://drive.google.com/open?id=1cQXJUC7T6oAbRj4ZPOUHZSVAOV_O99UG) to view our documentation video.
-
-![img](img/sit.png)
-
-#### Feedback
-“It’s very romantic and kind of witchy.” - Musician.
-
-“Are you having dinner or a seance?” -Single woman.
-
-“I’m confused...I accept it.” -Guy walking by in a large group with his friends.
-
-“It’s a social experiment. Is that what it is?” - A Parsons film student.
-
-“It’s really neat.” - Little boy, around six years old.
-
-“This is why we live in NYC. You won’t find this in Orange County.” -Little boy’s mother.
-
-The installation reminded someone of EDM (Electronic Digital Music) festivals where people incorporate glowing and light up fashion, jewelry, and accessories. 
-We were also told that the project reminded someone else of the Seaglass Carousel at Battery Park which incorporates 
-soothing ambient  ambient music and glowing underwater scenery.
-
-![img](img/seaglass.jpg)
-![img](img/edm.jpg)
-
-#### Meaningfulness
--Two strangers met at the installation, and ended up leaving together to get drinks and go on a **DATE**! The installation became an ice-breaker for them.
-
--Most people were unaware of the rich jazz history of the location and were excited to learn about the historical connection to the installation. 
-
--The original game play function of the ping-pong table maintains its influence and a layer of meaning: responsive, playful back-and-forth. 
-
--The theme of communication and connection is highlighted through the metaphor of lighting the other person’s candle. 
-
--The reflective mirrors mimic the experience of isolation resulting from people’s obsessions with their gadgets - interrupting what was once quality time during dinner. 
-
--We created the experience and influence for kids of art and music.
-
-#### Future Ideas
--We would love to be able to program objects on one end of the table to light up or react when objects on the other side are moved or picked up. Ideally we would incorporate motion sensors.
-
--Making more objects for the table is our ideal vision.
-
--We want to incorporate the remote control functionality into a giant spoon. The size of the remote needs to be increased to be more noticable. It would ideally light up and be very prominent. We would like the remote control to be hidden in a piece of silverware so that it is more meaningful to the expected dining experience.
-
--Bigger, more easily recognizable remote control buttons on the spoon (big red and green buttons) would be ideal as some people didn’t notice the buttons on the existing remote control. 
-
--The range of the sensor for the existing remote control is very limited. People had to point directly at the divider. Ideally a sensor with a wider range would be used. 
 
