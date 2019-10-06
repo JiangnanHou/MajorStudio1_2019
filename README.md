@@ -1,7 +1,7 @@
 ## 2019 Final Project
 
 ### [10/05/19 - Data Visualization](blog6.md)
-[![img](img/pv6.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog5.html)
+[![img](img/pv6.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog6.html)
 
 ### [10/01/19 - Research Observation](blog5.md)
 [![img](img/pv5.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog5.html)
