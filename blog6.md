@@ -3,7 +3,10 @@
 ## 10/05/19 - Data Visualization
 ### Question: How to create a better dining experience for single eater?
 #### Poster
-Based on the observation last week, I found the warm color in Ichiran improved the solo dinning experience. In order to visualize that, I made a poster sized illustration to abstract the color of everything in the booth. Obejects are simplized and geometrized, only the colors and color ratios remained. 
+Based on the observation last week, I found the warm color in Ichiran improved the solo dinning experience. 
+![img](img/ppic.jpg)
+
+In order to visualize that, I made a poster sized illustration to abstract the color of everything in the booth. Obejects are simplized and geometrized, only the colors and color ratios remained. 
 
 ![img](img/poster.jpg)
 
