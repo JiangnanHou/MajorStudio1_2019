@@ -30,6 +30,8 @@ I kept the warm color and gave it a typical eastern aesthetics. The black circle
 
 ![img](img/postcard.png)
 
-Overall look of poster and postcard:
+Printed version of poster and postcard:
 
-![img](img/post.png)
+![img](img/pprint1.jpg)
+![img](img/pprint2.jpg)
+![img](img/pprint3.jpg)
