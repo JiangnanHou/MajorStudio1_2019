@@ -34,4 +34,4 @@ Printed version of poster and postcard:
 
 ![img](img/pprint1.jpg)
 ![img](img/pprint2.jpg)
-![img](img/pprint3.jpg)
+![img](img/pv6.jpg)
