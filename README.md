@@ -1,7 +1,7 @@
 ## 2019 Final Project
 
 ### [10/20/19 - Midterm Reflection](blog7.md)
-[![img](img/pv7.jpg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog7.html)
+[![img](img/pv7.jpeg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog7.html)
 
 ### [10/05/19 - Data Visualization](blog6.md)
 [![img](img/pv6.jpg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog6.html)
