@@ -1,7 +1,7 @@
 [<Back](README.md)
 
 ## 10/22/19 - Prototype 1
-![img](img/pv1_7.jpeg)
+[![img](img/pv1_7.jpeg)](https://drive.google.com/file/d/1FeSDXt9Ow54KEIpBVXwNEJN3e48XYGL3/view?usp=sharing)
 [Click here to watch the video](https://drive.google.com/file/d/1FeSDXt9Ow54KEIpBVXwNEJN3e48XYGL3/view?usp=sharing)
 
 The first prototype is an animation about "me" and a mysterious man in the mirror in front of the dining table.
