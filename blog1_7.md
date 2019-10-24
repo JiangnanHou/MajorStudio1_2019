@@ -1,6 +1,6 @@
 [<Back](README.md)
 
-## 10/22/19 - Prototype 1
+## 10/22/19 - Prototype 1: Man in the mirror
 [![img](img/pv1_7.jpeg)](https://drive.google.com/file/d/1DsS3GSQoIsDeIkZchR-wDiJXrIJRywWZ/view?usp=sharing)
 [Click here to watch the video](https://drive.google.com/file/d/1DsS3GSQoIsDeIkZchR-wDiJXrIJRywWZ/view?usp=sharing)
 
