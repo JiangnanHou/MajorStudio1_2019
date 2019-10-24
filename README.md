@@ -1,5 +1,8 @@
 ## 2019 Final Project
 
+### [10/23/19 - Prototype 2](blog2_7.md)
+[![img](img/pv2_7.jpeg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog2_7.html)
+
 ### [10/22/19 - Prototype 1](blog1_7.md)
 [![img](img/pv1_7.jpeg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog1_7.html)
 
