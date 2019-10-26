@@ -1,7 +1,7 @@
 ## 2019 Final Project
 
 ### [10/25/19 - Prototype 4: You are what you eat](blog4_7.md)
-[![img](img/3-05.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog4_7.html)
+[![img](img/pv4_7.jpg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog4_7.html)
 
 ### [10/24/19 - Prototype 3: Card menu](blog3_7.md)
 [![img](img/3-05.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog3_7.html)
