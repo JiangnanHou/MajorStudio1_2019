@@ -1,7 +1,11 @@
 [<Back](README.md)
 
-## 10/23/19 - Prototype 2: Cook for one, cook for fun
-[![img](img/pv2_7.jpeg)](https://drive.google.com/file/d/14CyMyFGTxwIy83NpYxRZkmr4R7eirwZC/view?usp=sharing)
-[Click here to watch the video](https://drive.google.com/file/d/14CyMyFGTxwIy83NpYxRZkmr4R7eirwZC/view?usp=sharing)
+## 10/25/19 - Prototype 4: You are what you eat
+[![img](img/pv4_7.jpg)](https://drive.google.com/file/d/1xKVMlaRRrA9Xuf-DoTMLdSw_PxK3RB3k/view?usp=sharing)
+[Click here to watch the video](https://drive.google.com/file/d/1xKVMlaRRrA9Xuf-DoTMLdSw_PxK3RB3k/view?usp=sharing)
 
-Prototype 2 is a funny "cooking" video. I used paper, plastic balls and paper clips as "ingredients" to cook a playful meal. As the title says, cooking for one could also be a fun thing to do and to enjoy. The theme color of this video, yellow, is a fun, bold and delightful color. The chef and eater(me) in the video turned yellow(lip color, earrings, T-shirt...) after eating the yellow meal. This could be seen as a methphor to say how eating can enlight, empower and cheer one up when you embrace and enjoy the fun and possibilities of eating alone.
+Eating is an intimate physical activity. Food touch your body, go into your body, and become a part of your body eventually. Especially when you eat alone, without all the distractions, eating could also be reflective. There will be a moment when you are facing your food, feeling a connection, and turn back to reflect on your true self.
+
+Prototype 4 is a conceptual video. If your food can talk, what would it say? What would its personality be like? How would you feel when the emotional connection is built face to face, heart to heart? 
+
+In Bootcamp, I started a topic of building empathy between human and food. I explored by filming people eating tomatoes, and told them to imagine if the tomato was someone they loved. This prototype could be seen as an extension of that question, but it's important to note that eating alone, focusing on eating/food itself made it possible to be reflective and thought provoking.
