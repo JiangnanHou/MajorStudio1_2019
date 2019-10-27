@@ -1,7 +1,7 @@
 [<Back](README.md)
 
 ## 10/26/19 - Prototype 5: Window doodle
-[![img](img/pv5_7.jpeg)](https://drive.google.com/file/d/14eYu1Ru4ANPJgdKA3tOfPE37SvI90YUx/view?usp=sharing)
+[![img](img/pv5_7.png)](https://drive.google.com/file/d/14eYu1Ru4ANPJgdKA3tOfPE37SvI90YUx/view?usp=sharing)
 [Click here to watch the video](https://drive.google.com/file/d/14eYu1Ru4ANPJgdKA3tOfPE37SvI90YUx/view?usp=sharing)
 
 In my previous observation at Ramen Takumi, single eaters are put at bar seats by the windows. During the whole time there, I either stared at the blank, or encountered a gaze from passerbys outside. It was a busy street, so there were many people walking by constantly. But single eaters were still quietly isolated from both inside and outside, and sometimes even felt awkward being watched. What if I create a game experience by the window, using the passerbys as NPC and background, to give solo diners a chance to take advantage of the window seats, and play with the lonliness?
