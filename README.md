@@ -1,5 +1,8 @@
 ## 2019 Final Project
 
+### [10/27/19 - Prototype 6: To kill a microwave oven](blog6_7.md)
+[![img](img/pv6_7.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog6_7.html)
+
 ### [10/26/19 - Prototype 5: Window doodle](blog5_7.md)
 [![img](img/pv5_7.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog5_7.html)
 
