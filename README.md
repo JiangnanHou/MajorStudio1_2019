@@ -1,5 +1,8 @@
 ## 2019 Final Project
 
+### [10/26/19 - Prototype 5: Window doodle](blog5_7.md)
+[![img](img/pv5_7.jpg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog5_7.html)
+
 ### [10/25/19 - Prototype 4: You are what you eat](blog4_7.md)
 [![img](img/pv4_7.jpg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog4_7.html)
 
