@@ -1,5 +1,8 @@
 ## 2019 Final Project
 
+### [10/28/19 - Prototype 7: Sitting down, lighting up](blog7_7.md)
+[![img](img/pv7_7.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog7_7.html)
+
 ### [10/27/19 - Prototype 6: To kill a microwave oven](blog6_7.md)
 [![img](img/pv6_7.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog6_7.html)
 
