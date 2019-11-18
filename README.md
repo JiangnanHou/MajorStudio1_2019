@@ -1,5 +1,8 @@
 ## 2019 Final Project
 
+### [11/17/19 - Mood Board](blog8.md)
+[![img](img/moodboard.jpeg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog8.html)
+
 ### [10/28/19 - Prototype 7: Sitting down, lighting up](blog7_7.md)
 [![img](img/pv7_7.png)](https://jiangnanhou.github.io/MajorStudio1_2019/blog7_7.html)
 
