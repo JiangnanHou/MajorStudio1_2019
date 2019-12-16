@@ -1,7 +1,7 @@
 [<Back](README.md)
 
 ## 12/15/19 - Final output and reflection
-![img](img/3-01.png)
+![img](img/cover.jpg)
 
 a. What are the specific questions you are attempting to answer in your prototypes?
 b. What the five strengths of your project?
