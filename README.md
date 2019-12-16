@@ -1,7 +1,7 @@
 ## 2019 Final Project
 
 ### [12/15/19 - Final output and reflection](blog9.md)
-[![img](img/moodboard.jpeg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog9.html)
+[![img](img/cover.jpg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog9.html)
 
 ### [11/17/19 - Mood Board](blog8.md)
 [![img](img/moodboard.jpeg)](https://jiangnanhou.github.io/MajorStudio1_2019/blog8.html)
