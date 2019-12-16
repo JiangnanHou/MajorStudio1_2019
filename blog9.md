@@ -2,7 +2,9 @@
 
 ## 12/15/19 - Final output and reflection
 In a small and quiet room, the participant is going to have a unique experience by interacting, listening, watching and eating alone in the room. The participant is expected to catch a feeling of comfort, and to build empathic understanding of loneliness in an emotional and sensual way.
+
 This project aims to amplify the value of being alone, and make a statement that the honesty to face the loneliness could give us the power to eliminate the fear and ease the burden, and to discover the beauty of it. 
+
 [![img](img/cover.jpg)](https://drive.google.com/file/d/1TpxqsUNN6bfDdH4eK0ZAiXF9C-tzkTky/view?usp=sharing)
 [Click to watch the video.](https://drive.google.com/file/d/1TpxqsUNN6bfDdH4eK0ZAiXF9C-tzkTky/view?usp=sharing)
 
