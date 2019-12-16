@@ -8,8 +8,11 @@ This project aims to amplify the value of being alone, and make a statement that
 
 ### a. What are the specific questions you are attempting to answer in your prototypes?
 1.What's the positive sides of loneliness?
+
 2.How to visualize that?
+
 3.How to get people emotionally involved in a short period of time?
+
 4.How to incorporate eating within an experience about loneliness?
 
 ### b. What the five strengths of your project?
